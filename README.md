@@ -3,4 +3,4 @@ Anon Web aims to facilitate WhatsApp Messaging to unknown contacts on WhatsApp W
 
 ![Anon-Logo](Anon_Logo.png)
 
-__To use Anon on Android, visit [Anon-Android-App!](https://github.com/darthvardaan/Anon-Android-App)__
+__To use Anon on Android, visit [Anon-Android-App!](https://github.com/Prashant-Chauhan14/Anon-Android-App)__
